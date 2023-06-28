@@ -4,8 +4,8 @@
     <externalId>false</externalId>
     <label>Phone</label>
     <length>10</length>
-    <required>true</required>
-    <trackTrending>true</trackTrending>
-    <type>Phone</type>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>text</type>
     <unique>false</unique>
 </CustomField>
