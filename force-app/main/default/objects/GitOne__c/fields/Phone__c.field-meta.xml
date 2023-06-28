@@ -5,7 +5,7 @@
     <label>Phone</label>
     <length>10</length>
     <required>false</required>
-    <trackTrending>true</trackTrending>
+    <trackTrending>false</trackTrending>
     <type>text</type>
     <unique>false</unique>
 </CustomField>
